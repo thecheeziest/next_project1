@@ -1,0 +1,5 @@
+.portfolio { padding: 100px; box-sizing: border-box; }
+.portfolio h2 { font-size: 50px; font-weight: 700; margin-bottom: 50px; }
+.list { display: flex; justify-content: space-between; }
+.list h3 { font-size: 25px; font-weight: 700; margin-bottom: 15px; }
+.list p { margin-top: 15px; }
